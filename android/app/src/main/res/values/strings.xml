@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI APK Forge IDE</string>
+    <string name="app_version">1.0.0</string>
+    <string name="app_description">Mobile IDE for Android development with AI assistance</string>
+    <string name="notification_channel_builds">Build Notifications</string>
+    <string name="notification_build_in_progress">Build in progress...</string>
+    <string name="notification_build_complete">Build completed successfully</string>
+    <string name="notification_build_failed">Build failed</string>
+    <string name="error_network">Network error</string>
+    <string name="error_file_access">Cannot access file</string>
+    <string name="error_build">Build failed</string>
+</resources>

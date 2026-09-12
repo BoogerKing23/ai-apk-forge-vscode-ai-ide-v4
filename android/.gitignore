@@ -1,32 +1,33 @@
-# Android build artifacts
+# Android
 *.apk
 *.ap_
 *.aab
-
-# Build directories
+*.aar
 build/
 .gradle/
 .idea/
-
-# Local properties
-local.properties
-gradle.properties
-
-# IDE
 *.iml
 *.iws
 *.ipr
-.DS_Store
 
-# Keystore files
+# Local files
+local.properties
+gradlew.bat.bak
+
+# Keystore
 *.jks
 *.keystore
+release.keystore
 
-# Generated files
+# IDE
+.DS_Store
+Thumbs.db
+
+# Lint
+lint-results.xml
+lint-results.html
+
+# Generated
 /captures
 /gen
 /out
-
-# Lint results
-lint-results.xml
-lint-results-debug.html
